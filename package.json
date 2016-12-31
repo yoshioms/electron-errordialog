@@ -1,0 +1,19 @@
+{
+  "name": "electron-errordialog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yoshioms/electron-errordialog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yoshioms/electron-errordialog/issues"
+  },
+  "homepage": "https://github.com/yoshioms/electron-errordialog#readme"
+}
